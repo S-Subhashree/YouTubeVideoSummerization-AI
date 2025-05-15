@@ -13,9 +13,14 @@ This project is a YouTube video summarizer that:
 - ✅ Automatically fetches YouTube subtitles (even auto-generated)
 - ✅ Summarizes long videos using Gemini 1.5 Flash or Pro model
 - ✅ Runs directly in Google Colab (no need for local setup)
-- ✅ Optional web UI with Gradio
+- ✅ A `youtube_summary.txt` file generated
 - 🔐 Uses your private Google API Key (secured)
 
+
+---
+
+## ✅ Next Steps
+- web UI with Gradio (Optional)
 ---
 
 ## 📦 Requirements
