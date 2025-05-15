@@ -19,8 +19,32 @@ This project is a YouTube video summarizer that:
 
 ---
 
+## ✅ Technical Skills Used
+### 🧠 Machine Learning & AI
+- Prompt engineering for summarization using Gemini
+- LLM API integration (Google Gemini 1.5)
+
+### 🌐 Web APIs & Data Processing
+- Extracting YouTube video transcripts using youtube-transcript-api
+- Parsing and preprocessing raw transcript text
+
+### 🐍 Python Programming
+- Function-based scripting and modular design
+- Exception handling for API and network errors
+
+### 📡 API Integration
+- Using Google Generative AI SDK (google-generativeai)
+- Secure API key handling (getpass, genai.configure)
+
+### 🧪 Notebook Environment
+- Interactive development in Google Colab
+- Installing and managing Python packages with pip
+
+---
+
 ## ✅ Next Steps
-- web UI with Gradio (Optional)
+- web UI/UX interface design with Gradio (Optional)
+- You can build lightweight web apps from Python functions
 ---
 
 ## 📦 Requirements
