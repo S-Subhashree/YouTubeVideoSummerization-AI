@@ -8,12 +8,6 @@ This project is a YouTube video summarizer that:
 
 ---
 
-## ✨ Demo
-
-![demo](https://github.com/yourusername/yourrepo/assets/demo.gif) <!-- Add your own Colab/Gradio demo GIF here -->
-
----
-
 ## 🚀 Features
 
 - ✅ Automatically fetches YouTube subtitles (even auto-generated)
