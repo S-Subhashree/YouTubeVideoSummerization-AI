@@ -1,5 +1,3 @@
-# YouTubeVideoSummerization-AI
-
 # 🎥 YouTube Video Summarizer using Gemini API
 
 This project is a YouTube video summarizer that:
